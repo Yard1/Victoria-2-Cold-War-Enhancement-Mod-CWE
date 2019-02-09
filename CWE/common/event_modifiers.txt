@@ -3,6 +3,20 @@
 ##################################################################################################
 
 
+### Increase Conscription ###
+
+law_changed_by_force = {
+icon = 6
+}
+
+### Generic RGO Boosts ###
+
+rgo_boom = {
+local_RGO_throughput = 0.05
+local_RGO_output = 0.05
+icon = 13
+}
+
 ### UN Armistice ###
 
 occupied_province = {
@@ -15,6 +29,11 @@ icon = 20
 
 un_armistice_stall = {
 badboy = 0.02
+icon = 6
+}
+
+delay_occupied_territories = {
+suppression_points_modifier = 0.2
 icon = 6
 }
 
@@ -1627,18 +1646,19 @@ poorly_drilled = {
 ### Independence Mechanism ###
 
 independence_timer = { 
-global_pop_militancy_modifier = 0.1
-global_pop_consciousness_modifier = 0.2
+global_pop_militancy_modifier = 0.02
+global_pop_consciousness_modifier = 0.02
 icon = 6 
 }
 
 recently_attempted_independence_vote = { 
-global_pop_militancy_modifier = 0.2
+global_pop_militancy_modifier = 0.02
 icon = 16 
 }
 
 independence_vote_permission = { 
-global_pop_militancy_modifier = 0.2
+global_pop_militancy_modifier = 0.02
+global_pop_consciousness_modifier = 0.02
 icon = 16 
 }
 
@@ -1647,7 +1667,7 @@ icon = 4
 }
 
 recently_attempted_independence = {
-global_pop_consciousness_modifier = 0.2
+global_pop_consciousness_modifier = 0.02
 icon = 4
 }
 
@@ -5543,6 +5563,7 @@ baby_boom = {
 
 contraception_decay = {
 tax_efficiency = -0.025
+global_population_growth = 0.002
 factory_throughput = -0.25
 icon = 18
 }

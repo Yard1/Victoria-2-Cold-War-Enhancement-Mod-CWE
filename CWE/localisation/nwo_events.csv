@@ -3214,13 +3214,13 @@ EVT_8017807_NAME;Punto Fijo;;;;;;;;;;X
 EVT_8017807_DESC;Punto Fijo Pact was a formal arrangement arrived at between representatives of Venezuela's three main political parties in 1958: Accion Democratica, COPEI and Union Republicana Democratica, for the acceptance of the 1958 presidential elections, and the preservation of the rising democratic regime. It was aimed at preserving Venezuelan democracy by respecting elections, by having the winners of said elections consider including members of the signing parties and others to positions of power in bids for national unity governments, and by having a basic shared program of government. Simultaneously, the pact bound the parties to limit Venezuela’s political system to an exclusive competition between two parties. Some claim that the accord allowed the rising Venezuelan democracy to survive in the 60's the leftist guerrilla movement as well as destabilisation attempts by the Dominican Republic's right wing dictator, Rafael Leónidas Trujillo.;;;;;;;;;;X
 EVT_8017807_A;Sign it;;;;;;;;;;X
 EVT_8017807_B;The junta won't share power;;;;;;;;;;X
-EVT_8018013_NAME;Republic of Vietnam referendum;;;;;;;;;;X
+EVT_8018013_NAME;Referendum of $YEAR$;;;;;;;;;;X
 EVT_8018013_DESC;The State of Vietnam referendum of 1955 determined the future form of government of the State of Vietnam, the nation that was to become the Republic of Vietnam (widely known as South Vietnam). It was contested by Prime Minister Ngo Dinh Diem, who proposed a republic, and former emperor Bao Dai who had abdicated as emperor in 1945 and at the time of the referendum held the title of head of state. Diem claimed to have won the election that was widely marred by electoral fraud with 98.2 percent of the vote. He ultimately received over 386,000 more votes than the total number of registered voters.;;;;;;;;;;X
-EVT_8018013_A;Votings are successfully rigged!;;;;;;;;;;X
-EVT_8018013_B;The Emperor wins anyway;;;;;;;;;;X
+EVT_8018013_A;The vote was successfully rigged!;;;;;;;;;;X
+EVT_8018013_B;Emperor Bao Dai wins;;;;;;;;;;X
 EVT_8018014_NAME;Fall of Ngo Dinh Diem;;;;;;;;;;X
-EVT_8018014_DESC;"The arrest and assassination of Ngo Dinh Diem, the president of South Vietnam, marked the culmination of a successful CIA-backed coup d'état led by General Duong Van Minh in November 1963. On 2 November 1963, Diem was arrested after the Army of the Republic of Vietnam (ARVN) had been successful in a bloody overnight siege on Gia Long Palace in Saigon. The coup was the culmination of nine years of autocratic and nepotistic family rule in South Vietnam. Discontent with the Diem regime had been simmering below the surface, and exploded with mass Buddhist protests against long-standing religious discrimination after the government shooting of protesters who defied a ban on the flying of the Buddhist flag.;;;;;;;;;;X
-EVT_8018014_A;OK;;;;;;;;;;X
+EVT_8018014_DESC;The arrest and assassination of Ngo Dinh Diem, the president of South Vietnam, marked the culmination of a successful CIA-backed coup d'état led by General Duong Van Minh in November 1963. On 2 November 1963, Diem was arrested after the Army of the Republic of Vietnam (ARVN) had been successful in a bloody overnight siege on Gia Long Palace in Saigon. The coup was the culmination of nine years of autocratic and nepotistic family rule in South Vietnam. Discontent with the Diem regime had been simmering below the surface, and exploded with mass Buddhist protests against long-standing religious discrimination after the government shooting of protesters who defied a ban on the flying of the Buddhist flag.;;;;;;;;;;X
+EVT_8018014_A;It's the end of an era;;;;;;;;;;X
 EVT_8018022_NAME;Fall of Ngo Dinh Diem;;;;;;;;;;X
 EVT_8018022_DESC;The arrest and assassination of Ngo Dinh Diem, the president of South Vietnam, marked the culmination of a successful CIA-backed coup d'état led by General Duong Van Minh in November 1963. On 2 November 1963, Diem was arrested after the Army of the Republic of Vietnam (ARVN) had been successful in a bloody overnight siege on Gia Long Palace in Saigon. The coup was the culmination of nine years of autocratic and nepotistic family rule in South Vietnam. Discontent with the Diem regime had been simmering below the surface, and exploded with mass Buddhist protests against long-standing religious discrimination after the government shooting of protesters who defied a ban on the flying of the Buddhist flag.;;;;;;;;;;X
 EVT_8018022_A;Enough of undermining our war effort;;;;;;;;;;X
@@ -5639,7 +5639,7 @@ EVT_8500203_A;Missiles are spotted;;;;;;;;;;X
 EVT_8500203_B;We don't see anything;;;;;;;;;;X
 EVT_8500204_NAME;Cuban Missile Crisis;;;;;;;;;;X
 EVT_8500204_DESC;On October 15, the CIA's National Photographic Intelligence Center reviewed the U-2 photographs and identified objects that they interpreted as medium range ballistic missiles. The next morning, Kennedy was shown the U-2 photographs and briefed on the CIA's analysis of the images. The US had no plan in place because US intelligence had been convinced that the Soviets would never install nuclear missiles in Cuba. The EXCOMM quickly discussed several possible courses of action, including:;;;;;;;;;;X
-EVT_8500204_A;Perform naval quarantine of Cuba;;;;;;;;;;X
+EVT_8500204_A;Perform a naval quarantine of Cuba;;;;;;;;;;X
 EVT_8500204_B;Do nothing;;;;;;;;;;X
 EVT_8500204_C;Send grave warnings only;;;;;;;;;;X
 EVT_8500204_D;Perform air attacks and declare war (High risk of WW3);;;;;;;;;;X
@@ -5655,7 +5655,7 @@ EVT_8500207_NAME;Missiles in Cuba: American quarantine;;;;;;;;;;X
 EVT_8500207_DESC;Kennedy met with members of EXCOMM and other top advisers throughout October 21, considering two remaining options: an air strike primarily against the Cuban missile bases, or a naval blockade of Cuba. Robert McNamara supported the naval blockade as a strong but limited military action that left the U.S. in control. Kennedy administration did not think that the USSR would be provoked to attack by a mere blockade.;;;;;;;;;;X
 EVT_8500207_A;Continue convoys;;;;;;;;;;X
 EVT_8500207_B;Call off convoys;;;;;;;;;;X
-EVT_8500207_C;Kennedy thought wrong (WW3);;;;;;;;;;X
+EVT_8500207_C;Launch a pre-emptive strike;;;;;;;;;;X
 EVT_8500208_NAME;Crisis continues;;;;;;;;;;X
 EVT_8500208_DESC;At this point, the crisis was ostensibly at a stalemate. The USSR had shown no indication that they would back down and had made several comments to the contrary. The U.S. had no reason to believe otherwise and was in the early stages of preparing for an invasion, along with a nuclear strike on the Soviet Union in case it responded militarily, which was assumed.;;;;;;;;;;X
 EVT_8500208_A;Propose negotiations;;;;;;;;;;X
@@ -5663,10 +5663,10 @@ EVT_8500208_B;Let the matter fall;;;;;;;;;;X
 EVT_8500208_C;We had enough, it's war! (WW3);;;;;;;;;;X
 EVT_8500209_NAME;Negotiations in Cuban Missile Crisis;;;;;;;;;;X
 EVT_8500209_DESC;At 1:00 pm EDT on October 26, John A. Scali of ABC News had lunch with Aleksandr Fomin, a Soviet spy, at Fomin's request. Fomin noted, 'War seems about to break out,' and asked Scali to use his contacts to talk to his 'high-level friends' at the State Department to see if the U.S. would be interested in a diplomatic solution.;;;;;;;;;;X
-EVT_8500209_A;Demand withdrawal of American missiles (small risk of WW3);;;;;;;;;;X
+EVT_8500209_A;Demand withdrawal of American missiles;;;;;;;;;;X
 EVT_8500209_B;Demand economic concessions;;;;;;;;;;X
-EVT_8500209_C;Demand withdrawal from Berlin (moderate risk of WW3);;;;;;;;;;X
-EVT_8500209_D;Nothing can buy our decision (considerable risk of WW3);;;;;;;;;;X
+EVT_8500209_C;Demand withdrawal from Berlin;;;;;;;;;;X
+EVT_8500209_D;Nothing can buy our decision;;;;;;;;;;X
 EVT_8500210_NAME;Khrushchev's Proposal;;;;;;;;;;X
 EVT_8500210_DESC;The message from Khrushchev was surprisingly light on demands and Soviets seemed keen on keeping world at peace. They agreed to withdraw the missiles from Cuba only in exchange for money to cover costs of transport and in small part a great embarassment for USSR.;;;;;;;;;;X
 EVT_8500210_A;Agree to the trade;;;;;;;;;;X
